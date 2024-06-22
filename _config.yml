@@ -1,4 +1,4 @@
-title: 
+title: Personal Website
 email: mmalik16@jhu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   To be Added
@@ -9,3 +9,10 @@ theme: minima
 
 # Build settings
 markdown: kramdown
+
+# Navigation links
+nav_links:
+  - name: Home
+    link: /
+  - name: CV
+    link: /assets/cv.pdf
