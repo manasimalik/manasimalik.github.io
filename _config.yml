@@ -14,10 +14,10 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "(think)"
-title_separator          : "-"
-subtitle                 : "Think inside the parentheses." # site tagline that appears below site title in masthead
+locale                   : #"en-US"
+title                    : #"(think)"
+title_separator          : #"-"
+subtitle                 : #"Think inside the parentheses." # site tagline that appears below site title in masthead
 name                     : "Manasi Malik"
 description              : "Manasi Malik's personal blog"
 url                      : "https://manasimalik.com" # the base hostname & protocol for your site e.g. "https://batsov.com"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Manasi Malik (she/her)"
   avatar           : "/assets/img/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computational Cognitive Science Grad at JHU CogSci working with Dr. Leyla Isik."
+  bio              : "Computational Cognitive Neuroscience Grad at JHU working with Dr. Leyla Isik."
   location         : "Baltimore, USA"
   email            : mmalik16@jhu.edu
   links:
