@@ -3,7 +3,6 @@ layout: single
 title: About Me
 permalink: /about_me/
 author_profile: true
-toc: true
 ---
 
 I'm a fourth-year PhD student advised by Leyla Isik at the Department of Cognitive Science, Johns Hopkins University.
