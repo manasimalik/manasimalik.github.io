@@ -6,8 +6,8 @@ author_profile: true
 toc: true
 ---
 
-I'm a fourth-year Ph.D. student advised by Prof. Leyla Isik at the Department of Cognitive Science, Johns Hopkins University.
+I'm a fourth-year PhD student advised by Leyla Isik at the Department of Cognitive Science, Johns Hopkins University.
 
-I am interested in understanding cognition and its underlying neural correlates using computational modeling and analysis methods. Primarily, my interests lie in understanding social cognition.
+I am interested in using computational modeling and analysis methods to study social cognition and its underlying neural correlates. Currently, I'm working on understanding third-person social interaction judgments (such as helping/hindering) from visual stimuli.
 
-Prior to joining JHU, I worked at TCS Innovation Labs to develop deep learning models to improve advertising effectiveness. I did my B.Tech from IIIT Delhi in Electronics and Communication with a minor in Computational Biology. For my Bachelors' thesis, I worked on Multi-sensory Perception at the National Brain Research Center, India
+Prior to joining JHU, I worked at TCS Innovation Labs to develop deep learning models to improve advertising effectiveness. I did my B.Tech from IIIT Delhi and worked on multisensory perception for my bachelors' thesis at National Brain Research Center, India. In her free time, I enjoy reading fiction, playing team sports, and Bollywood dancing!
