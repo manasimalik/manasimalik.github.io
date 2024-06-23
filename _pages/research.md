@@ -14,12 +14,14 @@ Under construction
 ..figures..
 ..links to paper, posters for new stuff..
 --->
-## Previous Projects
-<!---
-### Understanding multi-sensory perception using graph theory, EEG signals and the McGurk effect
+## Previous Research
+
+#### Understanding multi-sensory perception using graph theory, EEG signals and the McGurk effect
 
 #### Deep reinforcement learning model for dynamic optimization of budget-constrained campaign allocation
---->
+
+#### Network Analysis of Food-Disease Associations
+
 ## Publications
 
 ## Presentations
