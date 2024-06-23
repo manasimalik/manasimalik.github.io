@@ -1,12 +1,4 @@
 title: Manasi Malik
 logo: /assets/img/logo.jpg
 description: Minimal is a theme for GitHub Pages.
-show_downloads: 
-google_analytics:
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-
-social_links:
-  twitter: https://twitter.com/ManasiMalik
-  linkedin: https://www.linkedin.com/in/manasi-malik
+remote_theme: mmistakes/minimal-mistakes@4.26.2
