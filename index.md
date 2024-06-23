@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+author_profile: true
 ---
 
 # Page Under Construction!
