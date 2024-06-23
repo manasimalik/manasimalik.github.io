@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Manasi Malik"
+  name             : "Manasi Malik (she/her)"
   avatar           : "/assets/img/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hacker. Emacs fanatic. Lover of parentheses. Firebrand. Just another programmer with too many opinions. I'm not the best, but I'm pretty good."
-  location         : "Sofia, Bulgaria"
+  bio              : "Computational Cognitive Science Grad at JHU CogSci working with Dr. Leyla Isik."
+  location         : "Baltimore, USA"
   email            : mmalik16@jhu.edu
   links:
     - label: "Email"
@@ -112,56 +112,14 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bbatsov"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://hachyderm.io/@bbatsov"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://twitter.com/ManasiMalik"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bbatsov"
+      url: "https://github.com/manasimalik"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/bbatsov/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-    - label: "Emacs Redux"
-      icon: "fas fa-fw fa-blog"
-      url: "https://emacsredux.com"
-    - label: "Meta Redux"
-      icon: "fas fa-fw fa-blog"
-      url: "https://metaredux.com"
+      url: "https://www.linkedin.com/in/manasi-malik/"
 
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bbatsov"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://hachyderm.io/@bbatsov"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bbatsov"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/bbatsov/"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
 
 
 # Reading Files
