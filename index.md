@@ -13,13 +13,10 @@ Apart from research, I enjoy reading fiction, playing team sports, and Bollywood
 
 #### <span style="color: #4d4d4d;">Recent Highlights</span>
 
-<ul>
-  <li style="color: #b3b3b3; font-size: 0.9em;">**April 2024**: Presented at the Social & Affective Neuroscience Society (2024) Symposium</li>
-  <li style="color: #b3b3b3; font-size: 0.9em;">[Your second highlight]</li>
-  <li style="color: #b3b3b3; font-size: 0.9em;">[Your third highlight]</li>
-</ul>
+<p style="color: #b3b3b3; font-size: 0.9em;">
+[April 2024: Presented at the Social & Affective Neuroscience Society (2024) Symposium]<br>
+[August 2023: Attended the Brains, Minds, and Machines summer school at MIT]<br>
+[Your third highlight]
+</p>
 
-- **April 2024**: Presented at the Social & Affective Neuroscience Society (2024) Symposium
-- **August 2023**: Attended the Brains, Minds, and Machines summer school at MIT
-- **July 2024**: Published paper in *Nature Communications* on relational visual representations in social interaction recognition.
-- **May 2024**: Gave a talk at Vision Sciences Society (VSS) 2024 in Florida.
+
