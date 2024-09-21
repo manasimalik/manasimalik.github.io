@@ -13,10 +13,9 @@ Apart from research, I enjoy reading fiction, playing team sports, and Bollywood
 
 ##### <span style="color: #4d4d4d;">Recent Highlights</span>
 
-<p style="color: #b3b3b3; font-size: 0.5em;">
-Apr'24: Presented at the Social & Affective Neuroscience Society (2024) Symposium <br>
+<p style="color: #b3b3b3; font-size: 0.7em;">
+Apr'24: Symposium Talk at the Social & Affective Neuroscience Society (2024) <br>
 Aug'23: Attended the Brains, Minds, and Machines Summer School <br>
-[Your third highlight]
 </p>
 
 
