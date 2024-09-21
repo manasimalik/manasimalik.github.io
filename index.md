@@ -10,3 +10,10 @@ I am interested in using computational modeling and analysis methods to study so
 Prior to joining JHU, I worked at TCS Innovation Labs to develop deep learning models to improve advertising effectiveness. I did my B.Tech from IIIT Delhi and worked on multisensory perception for my bachelors’ thesis at National Brain Research Center, India.
 
 Apart from research, I enjoy reading fiction, playing team sports, and Bollywood dancing!
+
+### Recent Highlights
+
+- **April 2024**: Presented at the Social & Affective Neuroscience Society (2024) Symposium
+- **August 2023**: Attended the Brains, Minds, and Machines summer school at MIT
+- **July 2024**: Published paper in *Nature Communications* on relational visual representations in social interaction recognition.
+- **May 2024**: Gave a talk at Vision Sciences Society (VSS) 2024 in Florida.
