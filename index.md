@@ -11,9 +11,9 @@ Prior to joining JHU, I worked at TCS Innovation Labs to develop deep learning m
 
 Apart from research, I enjoy reading fiction, playing team sports, and Bollywood dancing!
 
-##### <span style="color: #4d4d4d;">Recent Highlights</span>
+##### <span style="color: #696969;">Recent Highlights</span>
 
-<p style="color: #b3b3b3; font-size: 0.7em;">
+<p style="color: #7d7d7d; font-size: 0.7em;">
 Apr'24: Symposium Talk at the Social & Affective Neuroscience Society (2024) <br>
 Aug'23: Attended the Brains, Minds, and Machines Summer School <br>
 </p>
