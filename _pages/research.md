@@ -27,17 +27,17 @@ Under construction
 </div>
 
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
-    <strong>Malik, M.</strong>, Isik, L., 
+    - <strong>Malik, M.</strong>, Isik, L., 
     <a href="https://www.nature.com/articles/s41467-023-43156-8" style="color: #7d7d7d;">Relational visual representations underlie human social interaction recognition.</a>, Nature Communications 14, 7317 (2023).
 </div>
 
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
-    <strong>M. Malik</strong>, G. Gupta, L. Vig, and G. Shroff, 
+    - <strong>M. Malik</strong>, G. Gupta, L. Vig, and G. Shroff, 
     <a href="https://ieeexplore.ieee.org/document/9533838" style="color: #7d7d7d;">BCQ4DCA: Budget Constrained Deep Q-Network for Dynamic Campaign Allocation in Computational Advertising</a>, IEEE International Joint Conference on Neural Networks, 2021 (IJCNN '21).
 </div>
 
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
-    Yashaswi Rauthan, Vatsala Singh, Rishabh Agrawal, Satej Kadlay, Niranjan Pedanekar, Shirish Karande, 
+    - Yashaswi Rauthan, Vatsala Singh, Rishabh Agrawal, Satej Kadlay, Niranjan Pedanekar, Shirish Karande, 
     <strong>Manasi Malik</strong>, and Iaphi Tariang, 
     <a href="https://dl.acm.org/doi/10.1145/3422839.3423065" style="color: #7d7d7d;">Avoid Crowding in the Battlefield: Semantic Placement of Social Messages in Entertainment Programs</a>, International Workshop on AI for Smart TV Content Production, Access and Delivery (AI4TV '20).
 </div>
@@ -46,7 +46,7 @@ Under construction
     <strong>Manasi Malik</strong>, Ganesh Bagler, and Arpan Banerjee. 
     <a href="https://repository.iiitd.edu.in/jspui/handle/123456789/732" style="color: #7d7d7d;">Network analysis of neuro-cognitive processes: studying McGurk effect using EEG data</a>, IIITD, 2019.
 </div>
-
+<br>
 <!-- Talks Section -->
 <div style="font-size: 0.7em; font-weight: bold; text-decoration: underline; color: #000000; margin: 0; padding: 0;">
     Talks
@@ -75,7 +75,7 @@ Under construction
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
     Brown Bag Talk, JHU Cognitive Science (2022)
 </div>
-
+<br>
 <!-- Patents Section -->
 <div style="font-size: 0.7em; font-weight: bold; text-decoration: underline; color: #000000; margin: 0; padding: 0;">
     Patents
@@ -85,7 +85,7 @@ Under construction
     Gupta, G., Vig, L., Shroff, G., & <strong>Malik, M.</strong> (2024). 
     <a href="https://patents.google.com/patent/US11915262B2/en" style="color: #7d7d7d;">Budget constrained deep Q-network for dynamic campaign allocation in computational advertising.</a> U.S. Patent No. 11,915,262.
 </div>
-
+<br>
 <!-- Posters Section -->
 <div style="font-size: 0.7em; font-weight: bold; text-decoration: underline; color: #000000; margin: 0; padding: 0;">
     Posters
