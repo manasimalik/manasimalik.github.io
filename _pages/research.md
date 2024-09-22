@@ -21,8 +21,6 @@ Under construction
 
 ## Publications & Select Presentations
 
-## Publications & Selected Presentations
-
 ##### Publications
 
 <ul style="color: #7d7d7d; font-size: 0.7em;">
