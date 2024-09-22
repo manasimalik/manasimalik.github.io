@@ -43,39 +43,41 @@ Under construction
 </div>
 
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
-    <strong>Manasi Malik</strong>, Ganesh Bagler, and Arpan Banerjee. 
+    - <strong>Manasi Malik</strong>, Ganesh Bagler, and Arpan Banerjee. 
     <a href="https://repository.iiitd.edu.in/jspui/handle/123456789/732" style="color: #7d7d7d;">Network analysis of neuro-cognitive processes: studying McGurk effect using EEG data</a>, IIITD, 2019.
 </div>
-<br>
+<br style="line-height: 0.5em;" />
+
 <!-- Talks Section -->
 <div style="font-size: 0.7em; font-weight: bold; text-decoration: underline; color: #000000; margin: 0; padding: 0;">
     Talks
 </div>
 
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
-    Symposium, Social & Affective Neuroscience Society (SANS) (2024)
+    - Symposium, Social & Affective Neuroscience Society (SANS) (2024)
 </div>
 
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
-    Talk sessions, Vision Sciences Society (VSS), Florida, USA (2022)
+    - Talk sessions, Vision Sciences Society (VSS), Florida, USA (2022)
 </div>
 
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
-    Lab Meeting, Social Computation Representation And Prediction Lab (SCRAP), Dartmouth (2024)
+    - Lab Meeting, Social Computation Representation And Prediction Lab (SCRAP), Dartmouth (2024)
 </div>
 
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
-    Lab Meeting, JHU Social & Cognitive Origins Group (2023)
+    - Lab Meeting, JHU Social & Cognitive Origins Group (2023)
 </div>
 
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
-    Lab Meeting, MIT Computational Cognitive Science group (2022)
+    - Lab Meeting, MIT Computational Cognitive Science group (2022)
 </div>
 
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
-    Brown Bag Talk, JHU Cognitive Science (2022)
+    - Brown Bag Talk, JHU Cognitive Science (2022)
 </div>
-<br>
+<br style="line-height: 0.5em;" />
+
 <!-- Patents Section -->
 <div style="font-size: 0.7em; font-weight: bold; text-decoration: underline; color: #000000; margin: 0; padding: 0;">
     Patents
@@ -92,27 +94,27 @@ Under construction
 </div>
 
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
-    <strong>Manasi Malik</strong>, Minjae Kim, Shari Liu, Tianmin Shu, Leyla Isik, 
+    - <strong>Manasi Malik</strong>, Minjae Kim, Shari Liu, Tianmin Shu, Leyla Isik, 
     <a href="https://2024.ccneuro.org/pdf/137_Paper_authored_MM_CCN_2024_v3space.pdf" style="color: #7d7d7d;">Investigating the neural computations underlying visual social inference with graph neural networks</a>, Conference on Cognitive Computational Neuroscience (CCN'24), Boston, USA.
 </div>
 
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
-    <strong>Manasi Malik</strong>, Leyla Isik, 
+    - <strong>Manasi Malik</strong>, Leyla Isik, 
     <a href="https://2023.ccneuro.org/view_paper.php?PaperNum=1409" style="color: #7d7d7d;">Human Social Interaction Judgements are Uniquely Explained by both Bottom-up Graph Neural Networks and Generative Inverse Planning Models</a>, Conference on Cognitive Computational Neuroscience (CCN'23), Oxford, UK.
 </div>
 
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
-    <strong>Manasi Malik</strong>, Leyla Isik, 
+    - <strong>Manasi Malik</strong>, Leyla Isik, 
     <a href="https://ai.jhu.edu/ai-x-symposium-fall-2023/" style="color: #7d7d7d;">Human Social Interaction Judgements are Uniquely Explained by both Bottom-up Graph Neural Networks and Generative Inverse Planning Models</a>, Johns Hopkins AI-X Foundry Fall 2023 Symposium, Baltimore, USA.
 </div>
 
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
-    <strong>Manasi Malik</strong>, Leyla Isik, 
+    - <strong>Manasi Malik</strong>, Leyla Isik, 
     <a href="https://jov.arvojournals.org/article.aspx?articleid=2792260" style="color: #7d7d7d;">Both Purely Visual and Simulation-based Models Uniquely Explain Human Social Interaction Judgements</a>, Vision Sciences Society (VSS '23), Florida, USA.
 </div>
 
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
-    <strong>Manasi Malik</strong>, Leyla Isik, 
+    - <strong>Manasi Malik</strong>, Leyla Isik, 
     <a href="https://2022.ccneuro.org/view_paper.php?PaperNum=1142" style="color: #7d7d7d;">Social Inference from Relational Visual Information: An Investigation with Graph Neural Network Models</a>, Conference on Cognitive Computational Neuroscience (CCN'22), San Francisco, USA 
     <a href="https://cdn.flowcode.com/prodassets/CCN22_Poster_Manasi_Malik.pdf?ts=1661186627629155689" style="color: #7d7d7d;">(poster)</a>.
 </div>
