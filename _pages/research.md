@@ -20,6 +20,7 @@ Under construction
 - Network Analysis of Food-Disease Associations
 
 ## Publications
+<span style="color: #696969; font-size: 0.7em;">
 **Malik, M.**, Isik, L.  
 [Relational visual representations underlie human social interaction recognition.](https://www.nature.com/articles/s41467-023-43156-8)  
 Nature Communications 14, 7317 (2023).  
@@ -35,5 +36,6 @@ International Workshop on AI for Smart TV Content Production, Access and Deliver
 **Manasi Malik**, Ganesh Bagler, and Arpan Banerjee,  
 [Network analysis of neuro-cognitive processes: studying McGurk effect using EEG data](https://repository.iiitd.edu.in/jspui/handle/123456789/732),  
 IIITD, 2019.
+</span>
 
 ## Presentations
