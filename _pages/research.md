@@ -1,9 +1,9 @@
 ---
-layout: wide
+layout: single
 title: Research
 permalink: /research/
 author_profile: true
-toc: false
+toc: true
 ---
 
 Under construction
