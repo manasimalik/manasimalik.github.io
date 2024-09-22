@@ -36,7 +36,7 @@ Under construction
     </li>
 </ul>
 
-<span style="font-size: 0.7em; font-weight: bold; text-decoration: underline; padding: 0;">Talks</span>
+<span style="font-size: 0.7em; font-weight: bold; text-decoration: underline; margin:0; padding: 0;">Talks</span>
 <ul style="color: #7d7d7d; font-size: 0.7em; margin-top: 0; margin-bottom: 0; padding: 0;">
     <li>Symposium, Social & Affective Neuroscience Society (SANS) (2024)</li>
     <li>Talk sessions, Vision Sciences Society (VSS), Florida, USA (2022)</li>
