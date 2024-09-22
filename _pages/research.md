@@ -70,3 +70,32 @@ Under construction
     </li>
 </ul>
 
+<div style="font-size: 0.7em; font-weight: bold; text-decoration: underline; color: #000000; margin: 0; padding: 0;">
+    Posters
+</div>
+
+<div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
+    <strong>Manasi Malik</strong>, Minjae Kim, Shari Liu, Tianmin Shu, Leyla Isik, 
+    <a href="https://2024.ccneuro.org/pdf/137_Paper_authored_MM_CCN_2024_v3space.pdf" style="color: #7d7d7d;">Investigating the neural computations underlying visual social inference with graph neural networks</a>, Conference on Cognitive Computational Neuroscience (CCN'24), Boston, USA.
+</div>
+
+<div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
+    <strong>Manasi Malik</strong>, Leyla Isik, 
+    <a href="https://2023.ccneuro.org/view_paper.php?PaperNum=1409" style="color: #7d7d7d;">Human Social Interaction Judgements are Uniquely Explained by both Bottom-up Graph Neural Networks and Generative Inverse Planning Models</a>, Conference on Cognitive Computational Neuroscience (CCN'23), Oxford, UK.
+</div>
+
+<div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
+    <strong>Manasi Malik</strong>, Leyla Isik, 
+    <a href="https://ai.jhu.edu/ai-x-symposium-fall-2023/" style="color: #7d7d7d;">Human Social Interaction Judgements are Uniquely Explained by both Bottom-up Graph Neural Networks and Generative Inverse Planning Models</a>, Johns Hopkins AI-X Foundry Fall 2023 Symposium, Baltimore, USA.
+</div>
+
+<div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
+    <strong>Manasi Malik</strong>, Leyla Isik, 
+    <a href="https://jov.arvojournals.org/article.aspx?articleid=2792260" style="color: #7d7d7d;">Both Purely Visual and Simulation-based Models Uniquely Explain Human Social Interaction Judgements</a>, Vision Sciences Society (VSS '23), Florida, USA.
+</div>
+
+<div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
+    <strong>Manasi Malik</strong>, Leyla Isik, 
+    <a href="https://2022.ccneuro.org/view_paper.php?PaperNum=1142" style="color: #7d7d7d;">Social Inference from Relational Visual Information: An Investigation with Graph Neural Network Models</a>, Conference on Cognitive Computational Neuroscience (CCN'22), San Francisco, USA 
+    <a href="https://cdn.flowcode.com/prodassets/CCN22_Poster_Manasi_Malik.pdf?ts=1661186627629155689" style="color: #7d7d7d;">(poster)</a>.
+</div>
