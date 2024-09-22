@@ -46,10 +46,9 @@ Under construction
     - <strong>Manasi Malik</strong>, Ganesh Bagler, and Arpan Banerjee. 
     <a href="https://repository.iiitd.edu.in/jspui/handle/123456789/732" style="color: #7d7d7d;">Network analysis of neuro-cognitive processes: studying McGurk effect using EEG data</a>, IIITD, 2019.
 </div>
-<br style="line-height: 0.5em;" />
 
 <!-- Talks Section -->
-<div style="font-size: 0.7em; font-weight: bold; text-decoration: underline; color: #000000; margin: 0; padding: 0;">
+<div style="font-size: 0.7em; font-weight: bold; text-decoration: underline; color: #000000; margin: 1em; padding: 0;">
     Talks
 </div>
 
