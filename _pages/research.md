@@ -20,83 +20,79 @@ Under construction
 - Network Analysis of Food-Disease Associations
 
 ## Publications & Select Presentations
+
 ## Publications & Selected Presentations
 
-### Publications
+#### Publications
 
-<span style="color: #696969; font-size: 0.7em;">
-**Malik, M.**, Isik, L.<br>
-[Relational visual representations underlie human social interaction recognition.](https://www.nature.com/articles/s41467-023-43156-8)<br>
-Nature Communications 14, 7317 (2023).<br><br>
-</span>
+<ul style="color: #7d7d7d; font-size: 0.7em;">
+    <li><strong>Malik, M.</strong>, Isik, L. <br>
+        <a href="https://www.nature.com/articles/s41467-023-43156-8" style="color: #7d7d7d;">Relational visual representations underlie human social interaction recognition.</a> <br>
+        Nature Communications 14, 7317 (2023).
+    </li>
+    
+    <li><strong>M. Malik</strong>, G. Gupta, L. Vig, and G. Shroff, <br>
+        <a href="https://ieeexplore.ieee.org/document/9533838" style="color: #7d7d7d;">BCQ4DCA: Budget Constrained Deep Q-Network for Dynamic Campaign Allocation in Computational Advertising</a>, <br>
+        IEEE International Joint Conference on Neural Networks, 2021 (IJCNN '21).
+    </li>
+    
+    <li>Yashaswi Rauthan, Vatsala Singh, Rishabh Agrawal, Satej Kadlay, Niranjan Pedanekar, Shirish Karande, <strong>Manasi Malik</strong>, and Iaphi Tariang, <br>
+        <a href="https://dl.acm.org/doi/10.1145/3422839.3423065" style="color: #7d7d7d;">Avoid Crowding in the Battlefield: Semantic Placement of Social Messages in Entertainment Programs</a>, <br>
+        International Workshop on AI for Smart TV Content Production, Access and Delivery (AI4TV '20).
+    </li>
+    
+    <li><strong>Manasi Malik</strong>, Ganesh Bagler, and Arpan Banerjee. <br>
+        <a href="https://repository.iiitd.edu.in/jspui/handle/123456789/732" style="color: #7d7d7d;">Network analysis of neuro-cognitive processes: studying McGurk effect using EEG data</a>, <br>
+        IIITD, 2019.
+    </li>
+</ul>
 
-<span style="color: #696969; font-size: 0.7em;">
-**M. Malik**, G. Gupta, L. Vig, and G. Shroff,<br>
-[BCQ4DCA: Budget Constrained Deep Q-Network for Dynamic Campaign Allocation in Computational Advertising](https://ieeexplore.ieee.org/document/9533838),<br>
-IEEE International Joint Conference on Neural Networks, 2021 (IJCNN '21).<br><br>
-</span>
+#### Talks
 
-<span style="color: #696969; font-size: 0.7em;">
-Yashaswi Rauthan, Vatsala Singh, Rishabh Agrawal, Satej Kadlay, Niranjan Pedanekar, Shirish Karande, **Manasi Malik**, and Iaphi Tariang,<br>
-[Avoid Crowding in the Battlefield: Semantic Placement of Social Messages in Entertainment Programs](https://dl.acm.org/doi/10.1145/3422839.3423065),<br>
-International Workshop on AI for Smart TV Content Production, Access and Delivery (AI4TV '20).<br><br>
-</span>
+<ul style="color: #7d7d7d; font-size: 0.7em;">
+    <li>Symposium, Social & Affective Neuroscience Society (SANS) (2024)</li>
+    <li>Talk sessions, Vision Sciences Society (VSS), Florida, USA (2022)</li>
+    <li>Lab Meeting, Social Computation Representation And Prediction Lab (SCRAP), Dartmouth (2024)</li>
+    <li>Lab Meeting, JHU Social & Cognitive Origins Group (2023)</li>
+    <li>Lab Meeting, MIT Computational Cognitive Science group (2022)</li>
+    <li>Brown Bag Talk, JHU Cognitive Science (2022)</li>
+</ul>
 
-<span style="color: #696969; font-size: 0.7em;">
-**Manasi Malik**, Ganesh Bagler, and Arpan Banerjee,<br>
-[Network analysis of neuro-cognitive processes: studying McGurk effect using EEG data](https://repository.iiitd.edu.in/jspui/handle/123456789/732),<br>
-IIITD, 2019.<br><br>
-</span>
+#### Patents
 
-### Talks
+<ul style="color: #7d7d7d; font-size: 0.7em;">
+    <li>Gupta, G., Vig, L., Shroff, G., & <strong>Malik, M.</strong> (2024). <br>
+        <a href="https://patents.google.com/patent/US11915262B2/en" style="color: #7d7d7d;">Budget constrained deep Q-network for dynamic campaign allocation in computational advertising.</a> <br>
+        U.S. Patent No. 11,915,262.
+    </li>
+</ul>
 
-<span style="color: #696969; font-size: 0.7em;">
-- Symposium, Social & Affective Neuroscience Society (SANS) (2024)<br>
-- Talk sessions, Vision Sciences Society (VSS), Florida, USA (2022)<br>
-- Lab Meeting, Social Computation Representation And Prediction Lab (SCRAP), Dartmouth (2024)<br>
-- Lab Meeting, JHU Social & Cognitive Origins Group (2023)<br>
-- Lab Meeting, MIT Computational Cognitive Science group (2022)<br>
-- Brown Bag Talk, JHU Cognitive Science (2022)
-</span>
+#### Posters
 
-### Patents
-
-<span style="color: #696969; font-size: 0.7em;">
-Gupta, G., Vig, L., Shroff, G., & **Malik, M.** (2024).<br>
-[Budget constrained deep Q-network for dynamic campaign allocation in computational advertising.](https://patents.google.com/patent/US11915262B2/en)<br>
-U.S. Patent No. 11,915,262.
-</span>
-
-### Posters
-
-<span style="color: #696969; font-size: 0.7em;">
-**Manasi Malik**, Minjae Kim, Shari Liu, Tianmin Shu, Leyla Isik,<br>
-[Investigating the neural computations underlying visual social inference with graph neural networks](https://2024.ccneuro.org/pdf/137_Paper_authored_MM_CCN_2024_v3space.pdf),<br>
-Conference on Cognitive Computational Neuroscience (CCN'24), Boston, USA.<br><br>
-</span>
-
-<span style="color: #696969; font-size: 0.7em;">
-**Manasi Malik**, Leyla Isik,<br>
-[Human Social Interaction Judgements are Uniquely Explained by both Bottom-up Graph Neural Networks and Generative Inverse Planning Models](https://2023.ccneuro.org/view_paper.php?PaperNum=1409),<br>
-Conference on Cognitive Computational Neuroscience (CCN'23), Oxford, UK.<br><br>
-</span>
-
-<span style="color: #696969; font-size: 0.7em;">
-**Manasi Malik**, Leyla Isik,<br>
-Human Social Interaction Judgements are Uniquely Explained by both Bottom-up Graph Neural Networks and Generative Inverse Planning Models,<br>
-[Johns Hopkins AI-X Foundry Fall 2023 Symposium](https://ai.jhu.edu/ai-x-symposium-fall-2023/), Baltimore, USA.<br><br>
-</span>
-
-<span style="color: #696969; font-size: 0.7em;">
-**Manasi Malik**, Leyla Isik,<br>
-[Both Purely Visual and Simulation-based Models Uniquely Explain Human Social Interaction Judgements](https://jov.arvojournals.org/article.aspx?articleid=2792260),<br>
-Vision Sciences Society (VSS '23), Florida, USA.<br><br>
-</span>
-
-<span style="color: #696969; font-size: 0.7em;">
-**Manasi Malik**, Leyla Isik,<br>
-[Social Inference from Relational Visual Information: An Investigation with Graph Neural Network Models](https://2022.ccneuro.org/view_paper.php?PaperNum=1142),<br>
-Conference on Cognitive Computational Neuroscience (CCN'22), San Francisco, USA<br>
-[(poster)](https://cdn.flowcode.com/prodassets/CCN22_Poster_Manasi_Malik.pdf?ts=1661186627629155689).
-</span>
+<ul style="color: #7d7d7d; font-size: 0.7em;">
+    <li><strong>Manasi Malik</strong>, Minjae Kim, Shari Liu, Tianmin Shu, Leyla Isik, <br>
+        <a href="https://2024.ccneuro.org/pdf/137_Paper_authored_MM_CCN_2024_v3space.pdf" style="color: #7d7d7d;">Investigating the neural computations underlying visual social inference with graph neural networks</a>, <br>
+        Conference on Cognitive Computational Neuroscience (CCN'24), Boston, USA.
+    </li>
+    
+    <li><strong>Manasi Malik</strong>, Leyla Isik, <br>
+        <a href="https://2023.ccneuro.org/view_paper.php?PaperNum=1409" style="color: #7d7d7d;">Human Social Interaction Judgements are Uniquely Explained by both Bottom-up Graph Neural Networks and Generative Inverse Planning Models</a>, <br>
+        Conference on Cognitive Computational Neuroscience (CCN'23), Oxford, UK.
+    </li>
+    
+    <li><strong>Manasi Malik</strong>, Leyla Isik, <br>
+        <a href="https://ai.jhu.edu/ai-x-symposium-fall-2023/" style="color: #7d7d7d;">Human Social Interaction Judgements are Uniquely Explained by both Bottom-up Graph Neural Networks and Generative Inverse Planning Models</a>, <br>
+        Johns Hopkins AI-X Foundry Fall 2023 Symposium, Baltimore, USA.
+    </li>
+    
+    <li><strong>Manasi Malik</strong>, Leyla Isik, <br>
+        <a href="https://jov.arvojournals.org/article.aspx?articleid=2792260" style="color: #7d7d7d;">Both Purely Visual and Simulation-based Models Uniquely Explain Human Social Interaction Judgements</a>, <br>
+        Vision Sciences Society (VSS '23), Florida, USA.
+    </li>
+    
+    <li><strong>Manasi Malik</strong>, Leyla Isik, <br>
+        <a href="https://2022.ccneuro.org/view_paper.php?PaperNum=1142" style="color: #7d7d7d;">Social Inference from Relational Visual Information: An Investigation with Graph Neural Network Models</a>, <br>
+        Conference on Cognitive Computational Neuroscience (CCN'22), San Francisco, USA <a href="https://cdn.flowcode.com/prodassets/CCN22_Poster_Manasi_Malik.pdf?ts=1661186627629155689" style="color: #7d7d7d;">(poster)</a>.
+    </li>
+</ul>
 
