@@ -1,9 +1,16 @@
 ---
 layout: single
+classes: wide
 author_profile: true
 title: About Me
 sidebar:
-  - Recent Highlights
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
 ---
 
 I’m a fourth-year PhD student advised by Leyla Isik at the Department of Cognitive Science, Johns Hopkins University.
