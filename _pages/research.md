@@ -85,7 +85,8 @@ Under construction
 <div style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
     - Gupta, G., Vig, L., Shroff, G., & <strong>Malik, M.</strong> (2024). 
     <a href="https://patents.google.com/patent/US11915262B2/en" style="color: #7d7d7d;">Budget constrained deep Q-network for dynamic campaign allocation in computational advertising.</a> U.S. Patent No. 11,915,262.
-</div><br>
+</div>
+<span style="display:block; margin-bottom: 0.5em;"></span>
 
 <!-- Posters Section -->
 <div style="font-size: 0.7em; font-weight: bold; text-decoration: underline; color: #000000; margin: 0; padding: 0;">
