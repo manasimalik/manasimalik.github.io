@@ -8,7 +8,9 @@ toc: true
 \<Under construction\> <br>
 
 ## What are the computations underlying social interaction recognition in visual scenes?
-<div style="font-size: 0.7em;> Model paper: <a href="https://www.nature.com/articles/s41467-023-43156-8" style="color: #7d7d7d;">Relational visual representations underlie human social interaction recognition. </div>
+<div style="font-size: 0.7em;>
+    Model paper: <a href="https://www.nature.com/articles/s41467-023-43156-8" style="color: #7d7d7d;">Relational visual representations underlie human social interaction recognition.
+</div>
 <!---
 ..some sort of abstract..
 ..figures..
