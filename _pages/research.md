@@ -21,7 +21,7 @@ Under construction
 
 ## Publications & Select Presentations
 
-<span style="font-size: 0.8em; font-weight: bold; text-decoration: underline;">Publications</span>
+<span style="font-size: 0.8em; font-weight: bold; text-decoration: underline; padding: 0;">Publications</span>
 <ul style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
     <li><strong>Malik, M.</strong>, Isik, L., <a href="https://www.nature.com/articles/s41467-023-43156-8" style="color: #7d7d7d;">Relational visual representations underlie human social interaction recognition.</a>, Nature Communications 14, 7317 (2023).
     </li>
@@ -36,7 +36,7 @@ Under construction
     </li>
 </ul>
 
-<span style="font-size: 0.8em; font-weight: bold; text-decoration: underline;">Talks</span>
+<span style="font-size: 0.8em; font-weight: bold; text-decoration: underline; padding: 0;">Talks</span>
 <ul style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
     <li>Symposium, Social & Affective Neuroscience Society (SANS) (2024)</li>
     <li>Talk sessions, Vision Sciences Society (VSS), Florida, USA (2022)</li>
@@ -46,13 +46,13 @@ Under construction
     <li>Brown Bag Talk, JHU Cognitive Science (2022)</li>
 </ul>
 
-<span style="font-size: 0.8em; font-weight: bold; text-decoration: underline;">Patents</span>
+<span style="font-size: 0.8em; font-weight: bold; text-decoration: underline; padding: 0;">Patents</span>
 <ul style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
     <li>Gupta, G., Vig, L., Shroff, G., & <strong>Malik, M.</strong> (2024). <a href="https://patents.google.com/patent/US11915262B2/en" style="color: #7d7d7d;">Budget constrained deep Q-network for dynamic campaign allocation in computational advertising.</a> U.S. Patent No. 11,915,262.
     </li>
 </ul>
 
-<span style="font-size: 0.8em; font-weight: bold; text-decoration: underline;">Posters</span>
+<span style="font-size: 0.8em; font-weight: bold; text-decoration: underline; padding: 0;">Posters</span>
 <ul style="color: #7d7d7d; font-size: 0.7em; margin: 0; padding: 0;">
     <li><strong>Manasi Malik</strong>, Minjae Kim, Shari Liu, Tianmin Shu, Leyla Isik, <a href="https://2024.ccneuro.org/pdf/137_Paper_authored_MM_CCN_2024_v3space.pdf" style="color: #7d7d7d;">Investigating the neural computations underlying visual social inference with graph neural networks</a>, Conference on Cognitive Computational Neuroscience (CCN'24), Boston, USA.
     </li>
