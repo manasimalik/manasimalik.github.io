@@ -21,7 +21,7 @@ Under construction
 
 ## Publications & Select Presentations
 
-##### Publications
+<strong>Publications</strong>
 
 <ul style="color: #7d7d7d; font-size: 0.7em;">
     <li><strong>Malik, M.</strong>, Isik, L., <a href="https://www.nature.com/articles/s41467-023-43156-8" style="color: #7d7d7d;">Relational visual representations underlie human social interaction recognition.</a>, Nature Communications 14, 7317 (2023).
@@ -37,8 +37,7 @@ Under construction
     </li>
 </ul>
 
-##### Talks
-
+<strong>Talks</strong>
 <ul style="color: #7d7d7d; font-size: 0.7em;">
     <li>Symposium, Social & Affective Neuroscience Society (SANS) (2024)</li>
     <li>Talk sessions, Vision Sciences Society (VSS), Florida, USA (2022)</li>
@@ -48,14 +47,14 @@ Under construction
     <li>Brown Bag Talk, JHU Cognitive Science (2022)</li>
 </ul>
 
-##### Patents
+<strong>Patents</strong>
 
 <ul style="color: #7d7d7d; font-size: 0.7em;">
     <li>Gupta, G., Vig, L., Shroff, G., & <strong>Malik, M.</strong> (2024). <a href="https://patents.google.com/patent/US11915262B2/en" style="color: #7d7d7d;">Budget constrained deep Q-network for dynamic campaign allocation in computational advertising.</a> U.S. Patent No. 11,915,262.
     </li>
 </ul>
 
-##### Posters
+<strong>Posters</strong>
 
 <ul style="color: #7d7d7d; font-size: 0.7em;">
     <li><strong>Manasi Malik</strong>, Minjae Kim, Shari Liu, Tianmin Shu, Leyla Isik, <a href="https://2024.ccneuro.org/pdf/137_Paper_authored_MM_CCN_2024_v3space.pdf" style="color: #7d7d7d;">Investigating the neural computations underlying visual social inference with graph neural networks</a>, Conference on Cognitive Computational Neuroscience (CCN'24), Boston, USA.
