@@ -5,7 +5,7 @@ author_profile: true
 title: About Me
 ---
 
-I’m a fourth-year PhD student advised by Leyla Isik at the Department of Cognitive Science, Johns Hopkins University.
+I’m a fifth-year PhD student advised by Leyla Isik at the Department of Cognitive Science, Johns Hopkins University.
 
 I am interested in using computational modeling and analysis methods to study social cognition and its underlying neural correlates. Currently, I’m working on understanding the computations that enable third-person social interaction judgments (such as helping/hindering) from visual stimuli. I am also interested in the developmental origins of human social abilities, and how models of human social intelligence can lead to more human-like AI.
 
@@ -16,6 +16,9 @@ Apart from research, I enjoy reading fiction, playing team sports, and Bollywood
 ##### <span style="color: #696969;">Recent Highlights</span>
 
 <p style="color: #7d7d7d; font-size: 0.7em;">
+<strong>May 2025:</strong> Presented our work at VSS (2025) 🏖️<br> <br>
+<strong>March 2025:</strong> Pregisteration for our Neural Computations underlying Social Interaction recognition is out! 📝<br> <br>
+<strong>Dec 2024:</strong> Attended the Neuroscince of Consciousness Winter School <br> <br>
 <strong>Summer 2024:</strong> Presented posters at VSS (2024) and CCN (2024) on our preliminary fMRI-Computational models RSA work 🧠 <br> <br>
 <strong>April 2024:</strong> Symposium talk at the Social & Affective Neuroscience Society (2024) 🗣️<br> <br>
 <strong>November 2023:</strong> Our SocialGNN work was published in Nature Communications! 📝<br> <br>
