@@ -16,8 +16,8 @@ Apart from research, I enjoy reading fiction, playing team sports, and Bollywood
 ##### <span style="color: #696969;">Recent Highlights</span>
 
 <p style="color: #7d7d7d; font-size: 0.7em;">
-<strong>Aug 2025:</strong> Upcoming talk at CCN 2025, Amsterdam. <br> <br>
-<strong>Summer 2025:</strong> Teaching Assistant for the \href{https://cajal-training.org/on-site/neuro-ai/}{CAJAL NeuroAI Summer Course} in Lisbon🇵🇹<br> <br>
+<strong>Aug 2025:</strong> Upcoming talk at CCN 2025, Amsterdam <br> <br>
+<strong>Summer 2025:</strong> Teaching Assistant for the <a href="https://cajal-training.org/on-site/neuro-ai/" target="_blank">CAJAL NeuroAI Summer Course</a> in Lisbon 🇵🇹<br><br>
 <strong>May 2025:</strong> Presented our work at VSS (2025) 🏖️<br> <br>
 <strong>March 2025:</strong> Pregistered our methods and hypotheses for our fMRI-Computational models RSA work 📝<br> <br>
 <strong>Dec 2024:</strong> Attended the Neuroscience of Consciousness Winter School 👩🏻‍🏫<br> <br>
