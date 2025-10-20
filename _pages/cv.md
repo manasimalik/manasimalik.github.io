@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 <object 
-    data="/assets/ManasiMalik_CV_Jun2025.pdf" 
+    data="/assets/ManasiMalik_CV_9Oct25.pdf" 
     type="application/pdf" 
     width="100%" 
     height="900px">
