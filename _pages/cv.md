@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 ---
 
-[Download my CV (PDF)](/assets/ManasiMalik_CV_Jun2025.pdf)
+[Download as PDF](/assets/ManasiMalik_CV_9Oct25.pdf)
