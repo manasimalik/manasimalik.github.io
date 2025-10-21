@@ -13,7 +13,7 @@ permalink: /cv/
   </object>
 </div>
 
-<p class="cv-open-link"><a href="/assets/ManasiMalik_CV_9Oct25.pdf" target="_blank" rel="noopener">Open CV</a></p>
+<p class="cv-open-link"><a href="/assets/ManasiMalik_CV_9Oct25.pdf" target="_blank" rel="noopener">open in new tab</a></p>
 
 <style>
   @media (max-width: 768px) {
